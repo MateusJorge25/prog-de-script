@@ -1,0 +1,11 @@
+* {margin:0; padding:0;}
+header {background:#66CDAA; height:100px; color:#000080;
+	text-align:center; font-size:80px; padding:35px;}
+nav {background: #1c1c1c;;}
+section {background:#DCDCDC; min-height:500px;}
+footer {background:#66CDAA; height:60px; color:#191970;
+	text-align:center;}
+.link {float:left; background:#2F4F4F; color:#FF00FF; 
+	height: 20px; padding:10px 0; width:25%; text-align:center;
+	text-decoration:none;}
+.link:hover {background:#00BFFF;}
